@@ -1,2 +1,0 @@
-# gadaniedemo
-GitHub Pages
